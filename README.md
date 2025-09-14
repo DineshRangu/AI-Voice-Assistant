@@ -1,0 +1,2 @@
+# AI-Voice-Assistant
+Developed an AI voice assistant using React.js and Flask, integrated with Vapi API to enable patients to book and manage medical appointments via voice commands. Secured API key management and improved scheduling with real-time feedback.
